@@ -3,7 +3,7 @@
         {
                 "id": 1,
                 "namefood": "Chicken",
-                "price": "20000",
+                "price": 20000.0,
                 "info": "Combine the seasonings and coat chicken breasts",
                 "linkImage" : "http://icons.iconarchive.com/icons/aha-soft/desktop-buffet/96/Chicken-icon.png"
         },
@@ -11,7 +11,7 @@
                 
                 "id": 2,
                 "namefood": "Pizza",
-                "price": "50000",
+                "price": 50000.0,
                 "info": "Classic marinara sauce topped with whole milk mozzarella cheese.",
                 "linkImage" : "http://icons.iconarchive.com/icons/aha-soft/desktop-buffet/96/Pizza-icon.png"
         }
